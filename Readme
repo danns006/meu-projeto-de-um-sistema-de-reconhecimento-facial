@@ -2,6 +2,9 @@
 
 Este projeto detecta e reconhece múltiplas faces em tempo real utilizando OpenCV e TensorFlow.
 
+## IMPORTANTE
+Para acelerar o treinamento, o modelo foi treinado com apenas 5 pessoas do dataset LFW. Você pode expandir para mais classes conforme necessário.
+
 ## Tecnologias
 - Python
 - OpenCV
